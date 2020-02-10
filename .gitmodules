@@ -2,3 +2,8 @@
 	path = Royal-OCA
 	url = git@github.com:rlfss/Royal-OCA-Apps.git
 	branch = OCA
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 12.0
