@@ -12,3 +12,8 @@
 	path = White-Code-Repos/EGO13
 	url = git@github.com:White-Code-Repos/EGO13.git
 	branch = master
+
+[submodule "White-Code-Repos/firstgrain"]
+	path = White-Code-Repos/firstgrain
+	url = git@github.com:White-Code-Repos/firstgrain.git
+	branch = firstgrain_development
