@@ -22,3 +22,8 @@
 	path = White-Code-Repos/passap
 	url = git@github.com:White-Code-Repos/passap.git
 	branch = passap_development
+
+[submodule "White-Code-Repos/Economic"]
+	path = White-Code-Repos/Economic
+	url = git@github.com:White-Code-Repos/Economic.git
+	branch = economic_development
